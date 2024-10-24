@@ -6,7 +6,7 @@
     <title>WhatsApp संपर्क</title>
     <style>
         .whatsapp-button {
-            background-color: #25D366; /* WhatsApp का हरा रंग */
+            background-color: #25D366; /* WhatsApp का लाल रंग */
             color: white; /* पाठ का रंग */
             padding: 15px 25px; /* बटन का आकार */
             border: none; /* कोई सीमा नहीं */
